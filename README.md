@@ -1,4 +1,4 @@
-# FRC-Bible
+# FRC Programming Quran
 A repository storing the accumulated knowledge gained from the programming buckets.
 
 ## Table of Contents (In no particular order)
@@ -9,4 +9,3 @@ A repository storing the accumulated knowledge gained from the programming bucke
 - Tank Drive
 - Advantagescope
 - Shuffleboard
-- 
