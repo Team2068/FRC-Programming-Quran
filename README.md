@@ -5,6 +5,7 @@ A repository storing the accumulated knowledge gained from the programming bucke
 
 ## Table of Contents (In no particular order)
 
+- Control Systems
 - Motion Profiles
 - PID Controllers
 - Swerve Modules
@@ -20,6 +21,7 @@ A repository storing the accumulated knowledge gained from the programming bucke
 
 
 ## Motion Profiles
+[Motion Profiling](https://frc3603-docs.readthedocs.io/en/latest/motion-profiling.html)
 (Haven't read, but may be good?) https://www.chiefdelphi.com/t/motion-magic-vs-motion-profiling/365813
 https://docs.wpilib.org/en/stable/docs/software/advanced-controls/controllers/trapezoidal-profiles.html
 
