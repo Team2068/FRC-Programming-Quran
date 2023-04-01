@@ -16,12 +16,15 @@ A repository storing the accumulated knowledge gained from the programming bucke
 ## Control Systems
 [Control Systems Bible](https://github.com/calcmogul/controls-engineering-in-frc)
 
+
 (TO-READ) https://docs.wpilib.org/en/stable/docs/software/advanced-controls/introduction/control-system-basics.html
 
 
 
 ## Motion Profiles
 [Motion Profiling](https://frc3603-docs.readthedocs.io/en/latest/motion-profiling.html)
+
+[254's paper on Motion Profiling](https://www.chiefdelphi.com/uploads/default/original/3X/a/b/ab808bbf5f212c6deba8565dac83852bbd9b4394.pdf)
 
 (Haven't read, but may be good?) https://www.chiefdelphi.com/t/motion-magic-vs-motion-profiling/365813
 https://docs.wpilib.org/en/stable/docs/software/advanced-controls/controllers/trapezoidal-profiles.html
