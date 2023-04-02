@@ -14,8 +14,9 @@ And keep this in mind just in case electrical falls off (it will be your problem
 - Tank Drive
 - Advantagescope
 - Shuffleboard
+- Tools
 
-## Control Systems
+# Control Systems
 [Control Systems Bible](https://github.com/calcmogul/controls-engineering-in-frc)
 
 
@@ -23,7 +24,7 @@ And keep this in mind just in case electrical falls off (it will be your problem
 
 
 
-## Motion Profiles
+# Motion Profiles
 [Motion Profiling](https://frc3603-docs.readthedocs.io/en/latest/motion-profiling.html)
 
 [254's paper on Motion Profiling](https://www.chiefdelphi.com/uploads/default/original/3X/a/b/ab808bbf5f212c6deba8565dac83852bbd9b4394.pdf)
@@ -39,3 +40,8 @@ https://docs.wpilib.org/en/stable/docs/software/advanced-controls/controllers/tr
 [PID Comamnds & Subsystems](https://docs.wpilib.org/en/stable/docs/software/commandbased/pid-subsystems-commands.html)
 
 [Profiles + PID](https://docs.wpilib.org/en/stable/docs/software/commandbased/profilepid-subsystems-commands.html)
+
+# Tools
+[Advantage Scope](https://github.com/Mechanical-Advantage/AdvantageScope)
+
+[Path Planner](https://github.com/Mechanical-Advantage/AdvantageScope) (Use the microsoft store's)
