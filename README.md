@@ -3,6 +3,8 @@ A repository storing the accumulated knowledge gained from the programming bucke
 
 [If we ever fall of this hard](https://docs.wpilib.org/en/stable/docs/zero-to-robot/introduction.html)
 
+And keep this in mind just in case electrical falls off (it will be your problem): https://docs.wpilib.org/en/stable/docs/hardware/hardware-basics/wiring-best-practices.html
+
 ## Table of Contents (In no particular order)
 
 - Control Systems
