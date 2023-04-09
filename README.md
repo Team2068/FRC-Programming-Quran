@@ -16,6 +16,14 @@ And keep this in mind just in case electrical falls off (it will be your problem
 - Shuffleboard
 - Tools
 
+
+# Tools
+[Advantage Scope](https://github.com/Mechanical-Advantage/AdvantageScope)
+
+[Path Planner](https://github.com/Mechanical-Advantage/AdvantageScope) (Use the microsoft store's)
+
+[WPILib Datalogger](https://docs.wpilib.org/en/stable/docs/software/telemetry/datalog.html)
+
 # Control Systems
 [Control Systems Bible](https://github.com/calcmogul/controls-engineering-in-frc)
 
@@ -41,7 +49,3 @@ https://docs.wpilib.org/en/stable/docs/software/advanced-controls/controllers/tr
 
 [Profiles + PID](https://docs.wpilib.org/en/stable/docs/software/commandbased/profilepid-subsystems-commands.html)
 
-# Tools
-[Advantage Scope](https://github.com/Mechanical-Advantage/AdvantageScope)
-
-[Path Planner](https://github.com/Mechanical-Advantage/AdvantageScope) (Use the microsoft store's)
