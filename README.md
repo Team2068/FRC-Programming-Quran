@@ -7,6 +7,7 @@ And keep this in mind just in case electrical falls off (it will be your problem
 
 ## Table of Contents (In no particular order)
 
+- Tools
 - Control Systems
 - Motion Profiles
 - PID Controllers
@@ -14,7 +15,6 @@ And keep this in mind just in case electrical falls off (it will be your problem
 - Tank Drive
 - Advantagescope
 - Shuffleboard
-- Tools
 
 
 # Tools
