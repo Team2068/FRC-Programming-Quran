@@ -13,9 +13,6 @@ And keep this in mind just in case electrical falls off (it will be your problem
 - PID Controllers
 - Swerve Modules
 - Tank Drive
-- Advantagescope
-- Shuffleboard
-
 
 # Tools
 [Advantage Scope](https://github.com/Mechanical-Advantage/AdvantageScope)
@@ -23,6 +20,10 @@ And keep this in mind just in case electrical falls off (it will be your problem
 [Path Planner](https://github.com/Mechanical-Advantage/AdvantageScope) (Use the microsoft store's)
 
 [WPILib Datalogger](https://docs.wpilib.org/en/stable/docs/software/telemetry/datalog.html)
+
+[Shuffleboard](https://docs.wpilib.org/en/stable/docs/software/dashboards/shuffleboard/index.html)
+
+[WPILib Simulation](https://docs.wpilib.org/en/stable/docs/software/wpilib-tools/robot-simulation/physics-sim.html). I recommend siming only the mechanism if we aren't physically prototyping it, so we can tune values safely (and not break the robot like I did).
 
 # Control Systems
 [Control Systems Bible](https://github.com/calcmogul/controls-engineering-in-frc)
