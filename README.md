@@ -36,3 +36,4 @@ And keep this in mind just in case electrical falls off (it will be your problem
 - [WPILib PID Controllers](https://docs.wpilib.org/en/stable/docs/software/advanced-controls/controllers/pidcontroller.html#pid-control-in-wpilib)
 - [PID Comamnds & Subsystems](https://docs.wpilib.org/en/stable/docs/software/commandbased/pid-subsystems-commands.html)
 - [Profiles + PID](https://docs.wpilib.org/en/stable/docs/software/commandbased/profilepid-subsystems-commands.html)
+- [REV PID Controllers](https://docs.revrobotics.com/sparkmax/operating-modes/closed-loop-control)
