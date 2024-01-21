@@ -1,0 +1,18 @@
+Update Software
+- REV Hardware Client
+- Phoenix Tuner
+- Redux Alchamist
+- FRC Path Planner
+- AdvantageScope (Should be included in WPILIB)
+- WPILIB
+- FRC Game Tools
+
+Update Firmware:
+- Limelight
+- Cancoders or Helium Cancoders
+- REV Spark Maxes/Flexes
+
+Update Vendordeps:
+- Revlib
+- Pheonix 5 or 6 (or whatever version there will be in the future)
+- Path Planner Lib
