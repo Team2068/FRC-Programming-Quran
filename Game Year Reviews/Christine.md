@@ -27,3 +27,8 @@ We got Krakens and we're using Phoenix more, so I wish we had read up on TalonFX
 
 ## Week 3
 - Limelight Testing Continued with Chassis Testing
+
+# Faults
+- Due to scheduling issues combined with not reading up as throughly on the changes to PathPlanners are autonomous was our weakest point. During the offseason the intention is to finish up auton and make sure we will have consistent paths once the seasons starts in 2025
+- Another factor was constant design changes which led to us not having enough time to work on things like autonomous
+- Finally, a major fault seemingly would be the lack of theory the kids have. Although it didn't limit us much this year, I do think having them fully understand all the aspects of FRC programming would enable faster growth and up our game as a robotics team, so currently that's the move
