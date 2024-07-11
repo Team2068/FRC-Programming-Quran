@@ -21,6 +21,7 @@ And keep this in mind just in case electrical falls off (it will be your problem
 - [Advantage Scope](https://github.com/Mechanical-Advantage/AdvantageScope) -> Useful for analysing data, troubleshooting issues, replaying matches, and tuning PIDs
 - [Advantage Kit](https://github.com/Mechanical-Advantage/AdvantageKit)
 - [Path Planner](https://github.com/Mechanical-Advantage/AdvantageScope) (Use the microsoft store's) -> Path planning
+- [Choreo](https://sleipnirgroup.github.io/Choreo/usage/editing-paths/#obstacles) -> Better Path Planning
 - [WPILib Datalogger](https://docs.wpilib.org/en/stable/docs/software/telemetry/datalog.html) -> Logging data that will be analysed by other tools
 - [Shuffleboard](https://docs.wpilib.org/en/stable/docs/software/dashboards/shuffleboard/index.html) -> Good for creating an interface for the drive coach to work with and useable for debugging
 - [WPILib Simulation](https://docs.wpilib.org/en/stable/docs/software/wpilib-tools/robot-simulation/physics-sim.html). I recommend siming only the mechanism if we aren't physically prototyping it, so we can tune values safely (and not break the robot like I did).
