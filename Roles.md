@@ -26,7 +26,6 @@ The biggest Questions you should ask yourself are:
 - [Think Again](https://libgen.gs/ads9340c0b820afdd3bdefa3c99571a4569EPGI2A75)
 
 - [The Journal of Military History](https://libgen.gs/series.php?id=23955)
-- [The Art of Pimping](https://libgen.gs/ads5730a26ea16480b75ec61f15c8b0a024WF86BHB0) -> I swear this isn't as bad as you think it is
 
 # Scouting Lead:
 Your job is to gather information for the drive coach to help determine who should be our alliance partners, what strategy  would work best with our robot, what can we contribute to an alliance? Your information will be important for the drive coach to run strategies, choose teams, and develop the skills of the drivers.
