@@ -14,6 +14,7 @@ And keep this in mind just in case electrical falls off (it will be your problem
 - [Phoenix Control Systems Docs](README.md#CTRE-Control-Systems-Docs)
 - [Swerve](README.md#Swerve)
 - [Sensors & Data Processing](README.md#Sensors)
+- [Development Manual for REV SPARK MAX](https://www.revrobotics.com/development-spark-max-users-manual/)
 - [State Space Modeling](https://docs.wpilib.org/en/stable/docs/software/advanced-controls/state-space/index.html)
 - [Tank Drive / WestCoast Drive](https://docs.wpilib.org/en/stable/docs/software/hardware-apis/motors/wpi-drive-classes.html)
 
