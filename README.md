@@ -14,6 +14,7 @@ And keep this in mind just in case electrical falls off (it will be your problem
 - [Phoenix Control Systems Docs](README.md#CTRE-Control-Systems-Docs)
 - [Swerve](README.md#Swerve)
 - [Sensors & Data Processing](README.md#Sensors)
+- [REV Spark Max Programming Examples](https://github.com/REVrobotics/SPARK-MAX-Examples/tree/master/Java)
 - [Development Manual for REV SPARK MAX](https://www.revrobotics.com/development-spark-max-users-manual/)
 - [State Space Modeling](https://docs.wpilib.org/en/stable/docs/software/advanced-controls/state-space/index.html)
 - [Tank Drive / WestCoast Drive](https://docs.wpilib.org/en/stable/docs/software/hardware-apis/motors/wpi-drive-classes.html)
@@ -59,6 +60,7 @@ And keep this in mind just in case electrical falls off (it will be your problem
 - [Things to Keep in Mind](https://yagsl.gitbook.io/yagsl/bringing-up-swerve/preface) -> Read through this section of the documentation
 
 # Sensors
+- [1418's Intro to Sensors](https://1418.team/assets/resources/workshops/2019/2019-Sensors.pdf)
 - [Encoders Overview](https://docs.revrobotics.com/duo-control/sensors/encoders)
 - [Hall Effect Sensors Review At All Levels](https://www.mdpi.com/1424-8220/20/15/4163) -> You don't need to know everything in this paper
 - [Hall Effect Sensors outside of FRC](https://www.mdpi.com/1424-8220/21/21/7072)
