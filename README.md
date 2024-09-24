@@ -14,8 +14,7 @@ And keep this in mind just in case electrical falls off (it will be your problem
 - [Phoenix Control Systems Docs](README.md#CTRE-Control-Systems-Docs)
 - [Swerve](README.md#Swerve)
 - [Sensors & Data Processing](README.md#Sensors)
-- [REV Spark Max Programming Examples](https://github.com/REVrobotics/SPARK-MAX-Examples/tree/master/Java)
-- [Development Manual for REV SPARK MAX](https://www.revrobotics.com/development-spark-max-users-manual/)
+- [Motor Controllers](README.md#Motor-Controllers)
 - [State Space Modeling](https://docs.wpilib.org/en/stable/docs/software/advanced-controls/state-space/index.html)
 - [Tank Drive / WestCoast Drive](https://docs.wpilib.org/en/stable/docs/software/hardware-apis/motors/wpi-drive-classes.html)
 
@@ -53,6 +52,12 @@ And keep this in mind just in case electrical falls off (it will be your problem
 - [Phoenix Control Systems Intro](https://pro.docs.ctr-electronics.com/en/latest/docs/api-reference/device-specific/talonfx/talonfx-control-intro.html)
 - [Closed Loop Control Introduction](https://pro.docs.ctr-electronics.com/en/latest/docs/api-reference/device-specific/talonfx/closed-loop-requests.html)
 - [Open Loop Control Introduction](https://pro.docs.ctr-electronics.com/en/latest/docs/api-reference/device-specific/talonfx/open-loop-requests.html)
+
+# Motor Controllers
+- [CTRE Current Limits](https://v6.docs.ctr-electronics.com/en/stable/docs/hardware-reference/talonfx/improving-performance-with-current-limits.html)
+- [REV Spark Max Programming Examples](https://github.com/REVrobotics/SPARK-MAX-Examples/tree/master/Java)
+- [Development Manual for REV SPARK MAX](https://www.revrobotics.com/development-spark-max-users-manual/)
+
 
 # Swerve
 - [Swerve Drive Overview](https://yagsl.gitbook.io/yagsl/fundamentals/swerve-drive)
