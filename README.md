@@ -16,7 +16,8 @@ And keep this in mind just in case electrical falls off (it will be your problem
 - [Sensors & Data Processing](README.md#Sensors)
 - [Motor Controllers](README.md#Motor-Controllers)
 - [State Space Modeling](https://docs.wpilib.org/en/stable/docs/software/advanced-controls/state-space/index.html)
-- [Tank Drive / WestCoast Drive](https://docs.wpilib.org/en/stable/docs/software/hardware-apis/motors/wpi-drive-classes.html)
+- [TankDrive / WestCoast Drive](https://docs.wpilib.org/en/stable/docs/software/hardware-apis/motors/wpi-drive-classes.html)
+- [FRC Electrical Bible](https://www.gitbook.com/book/mililanirobotics/frc-electrical-bible) & [The Beta](https://mililanirobotics.gitbooks.io/frc-electrical-bible/content/)
 
 # Tools
 - [Advantage Scope](https://github.com/Mechanical-Advantage/AdvantageScope) -> Useful for analysing data, troubleshooting issues, replaying matches, and tuning PIDs
@@ -65,7 +66,7 @@ And keep this in mind just in case electrical falls off (it will be your problem
 - [Things to Keep in Mind](https://yagsl.gitbook.io/yagsl/bringing-up-swerve/preface) -> Read through this section of the documentation
 
 # Sensors
-- [1418's Intro to Sensors](https://1418.team/assets/resources/workshops/2019/2019-Sensors.pdf)
+- [1418's 2019 Intro to Sensors](https://1418.team/assets/resources/workshops/2019/2019-Sensors.pdf)
 - [Encoders Overview](https://docs.revrobotics.com/duo-control/sensors/encoders)
 - [Hall Effect Sensors Review At All Levels](https://www.mdpi.com/1424-8220/20/15/4163) -> You don't need to know everything in this paper
 - [Hall Effect Sensors outside of FRC](https://www.mdpi.com/1424-8220/21/21/7072)
