@@ -8,6 +8,7 @@ And keep this in mind just in case electrical falls off (it will be your problem
 ## Table of Contents (In no particular order)
 
 - [Tools](README.md#Tools)
+- [Git](README.md#Git)
 - [Control Systems](README.md#Control-Systems)
 - [Motion Profiles](README.md#Motion-Profiles)
 - [PID Controllers](README.md#PID-Controllers)
@@ -19,8 +20,14 @@ And keep this in mind just in case electrical falls off (it will be your problem
 - [TankDrive / WestCoast Drive](https://docs.wpilib.org/en/stable/docs/software/hardware-apis/motors/wpi-drive-classes.html)
 - [FRC Electrical Bible](https://www.gitbook.com/book/mililanirobotics/frc-electrical-bible) & [The Beta](https://mililanirobotics.gitbooks.io/frc-electrical-bible/content/)
 
+# Git
+- [Intro To Git](https://gist.github.com/brandon1024/14b5f9fcfd982658d01811ee3045ff1e)
+- [Git Manual](https://git-scm.com/docs)
+- [Comprehensive Git Guide](https://git-scm.com/book/en/v2)
+- [Git Videos](https://git-scm.com/videos)
+ 
 # Tools
-- [Advantage Scope](https://github.com/Mechanical-Advantage/AdvantageScope) -> Useful for analysing data, troubleshooting issues, replaying matches, and tuning PIDs
+- [Advantagescope](https://github.com/Mechanical-Advantage/AdvantageScope) -> Useful for analysing data, troubleshooting issues, replaying matches, and tuning PIDs
 - [Advantage Kit](https://github.com/Mechanical-Advantage/AdvantageKit)
 - [Path Planner](https://github.com/Mechanical-Advantage/AdvantageScope) (Use the microsoft store's) -> Path planning
 - [Choreo](https://sleipnirgroup.github.io/Choreo/usage/editing-paths/#obstacles) -> Better Path Planning
