@@ -5,7 +5,7 @@ Note: Programming Lead has to read everything by the time their season starts an
 # Sensors:
 - Read the docs for all sensors, and look into their API, especially for the configuration aspect.
 - When programming mechanisms and their sensors a good thing to think about is CAN utilisation, and looking into configuration settings for the status frame period, would help you gain insight into reducing CAN utilisation and avoiding buying devices that are unnecessary.
-- Since we'll probably be using REV motors for a while, [here](https://docs.revrobotics.com/sparkmax/operating-modes/control-interfaces) is the page for the status frame periods on the SparkMaxes.
+- Since we'll probably be using REV motors for a while, [here](https://docs.revrobotics.com/brushless/spark-max/control-interfaces) is the page for the status frame periods on the SparkMaxes.
 - When choosing sensors, evaluate them on a strengths & vulnerability basis. For every sensor you rely on is another point of failure, so you have to think about how to secure them, strategies for if/when they fail, and how to avoid using a sensor while still sustaining accuracy and holding redundancy in-case that sensor breaks.
 
 
