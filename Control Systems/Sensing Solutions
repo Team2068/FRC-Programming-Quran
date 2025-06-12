@@ -1,0 +1,19 @@
+# RPM, Current, and Torque Sensing:
+Intake are a very useful mechanism, and because of how useful they are, they also experience the most wear-and-tear and are the mechanism mostly to become unusable. There are 2.5 ways to approach improving the reliability of an intake. The first is to choose the right material. Depending on how your mechanism interacts with the field, adjusting the type of material used can reduce breaking and improve reliability. A good example of this approach is our 2024 Robot, Christine. Christine at first used plexy glass for an over-bumper intake. Due to the intake being slammed into the ground multiple time during a match, along with accidently coliding with field elements and robots, the plexy glass was prone to shattering. The solution? Just switch to aluminum and now the what was most likely to break were the sensors their wiring on the intake. This example provides the second way to improve intake reliability and the one that is most important to this session, sensor redundancy. 
+
+There are 2 ways to introduce sensor redundancy. The first is by adding another sensor around the same spot or parallel to the original sensor.[TODO: INSERT A EXAMPLE LATER]. The second way to introduce redundancy is through using another sensing method. In this case, RPM, current, and/or torque sensing. Depending on the size, placement, and amount of game elements that have to be taken in, you can use the change in RPM, current, and/or torque to determine if a game element has been taken in. The method is roughly the same, when there is a significant drop in the RPM, current, and/or torque, you can stop intaking. Although not officially implemented on the original bots (but hopefully added in the simulated 2.0 versions), the robots for 2023, 2024, and 2025 all were good cases for this. Each game has you take in at most a single element (or in the case of 2025, take in at most of each of the 2 different game elements). 
+
+[TODO: Give code examples from the 2023-2025 revised version and explain how each uses the different types of sensing]
+
+## How did we learn this?
+This came from 2 sources. In 2024, we had issues with our intake, namely our bream break kept being smashed or unplugged. Although we did want to just have it be better crimpt and maybe create a casing for it, we at the time, did not like relying on the other buckets to get everything right (which to be fair, they had a history of forgetting the small details and then forcing us to make it work or be manageable). So, we decided to start looking for other avenues and one idea that caught our attention was seeing a Behind-The-Bumpers (I forgot which one) where another team mentioned using current to detect if a game piece was present. This led to looking into current sensing which we found in a cheifdelphi article. 
+
+## Applications in FRC
+- Game Piece Detection: Detect when a ball, cone, or other game piece is picked up.
+- Jam Detection: Identify when a mechanism is jammed and prevent motor damage by stopping or reversing the motor.
+- Automated Scoring: Use current sensing to confirm when a game piece is scored or released.
+
+## Considerations
+- Calibration: You'll need to calibrate the system to account for normal variations in current draw during operation.
+- Noise Filtering: Sudden spikes or noise in the current data may require filtering to avoid false positives.
+- Sensor Placement: Ensure the current sensor is monitoring the correct motor circuit for accurate detection.
