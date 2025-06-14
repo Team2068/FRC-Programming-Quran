@@ -81,7 +81,6 @@ And keep this in mind just in case electrical falls off (it will be your problem
 - [Hall Effect Sensors outside of FRC](https://www.mdpi.com/1424-8220/21/21/7072)
 - [Motor FOC](https://www.mathworks.com/videos/motor-control-part-4-understanding-field-oriented-control-1587967749983.html)
 - [Filters](https://docs.wpilib.org/en/stable/docs/software/advanced-controls/filters/index.html)
-- 
 
 # Simulations
 - [Maple Sim](https://shenzhen-robotics-alliance.github.io/maple-sim/)
