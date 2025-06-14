@@ -13,6 +13,7 @@ And keep this in mind just in case electrical falls off (it will be your problem
 - [Motion Profiles](README.md#Motion-Profiles)
 - [PID Controllers](README.md#PID-Controllers)
 - [Phoenix Control Systems Docs](README.md#CTRE-Control-Systems-Docs)
+- [Simulations](README.md#Simulations)
 - [Swerve](README.md#Swerve)
 - [Sensors & Data Processing](README.md#Sensors)
 - [Motor Controllers](README.md#Motor-Controllers)
@@ -60,6 +61,7 @@ And keep this in mind just in case electrical falls off (it will be your problem
 - [Phoenix Control Systems Intro](https://pro.docs.ctr-electronics.com/en/latest/docs/api-reference/device-specific/talonfx/talonfx-control-intro.html)
 - [Closed Loop Control Introduction](https://pro.docs.ctr-electronics.com/en/latest/docs/api-reference/device-specific/talonfx/closed-loop-requests.html)
 - [Open Loop Control Introduction](https://pro.docs.ctr-electronics.com/en/latest/docs/api-reference/device-specific/talonfx/open-loop-requests.html)
+- [Falcon 500 MotionMagic Example](https://gist.github.com/jcorcoran/e56d985fd1ee290b075d13c9f9aa3595)
 
 # Motor Controllers
 - [CTRE Current Limits](https://v6.docs.ctr-electronics.com/en/stable/docs/hardware-reference/talonfx/improving-performance-with-current-limits.html)
@@ -79,3 +81,13 @@ And keep this in mind just in case electrical falls off (it will be your problem
 - [Hall Effect Sensors outside of FRC](https://www.mdpi.com/1424-8220/21/21/7072)
 - [Motor FOC](https://www.mathworks.com/videos/motor-control-part-4-understanding-field-oriented-control-1587967749983.html)
 - [Filters](https://docs.wpilib.org/en/stable/docs/software/advanced-controls/filters/index.html)
+- 
+
+# Simulations
+- [Maple Sim](https://shenzhen-robotics-alliance.github.io/maple-sim/)
+- [WPILib Simulation](https://docs.wpilib.org/en/stable/docs/software/wpilib-tools/robot-simulation/index.html)
+- [Using Advantagescope for Simulation](https://docs.advantagescope.org/tab-reference/3d-field) -> This view will be the best for modeling your robot's activity
+- [Simulating REV Devices](https://docs.revrobotics.com/revlib/spark/sim)
+- [Simulating CTRE Devices](https://v6.docs.ctr-electronics.com/en/stable/docs/api-reference/simulation/simulation-intro.html)
+- [Simulation with the Phoenix v5 API](https://v5.docs.ctr-electronics.com/en/stable/ch15a_Simulation.html)
+- [Examples of Simulation with CTRE Devices](https://github.com/CrossTheRoadElec/Phoenix6-Examples/tree/main/java/Simulation)
