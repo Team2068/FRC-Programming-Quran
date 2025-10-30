@@ -48,7 +48,7 @@ Your job is to guide the training of your bucket members and to determine what t
 
 Some Questions you should ask yourself are:
 - How can we supplmenet other buckets?
-- What can we automated on the robot?
+- What can we automate on the robot?
 - How can we measure the effectiveness of our automations compared to manual control?
 - How do we optimise our power draw?
 - How do we minimise sensor noise?
@@ -60,10 +60,10 @@ Some Questions you should ask yourself are:
 - How can we optimise our team's time management, performance, and resource usage with software? 
 
 # Sensors Lead:
-Your job is to be well acquited with sensors and filters, understanding the different types of sensors and filters, along with knowing how to reduce noise and automate as much of the robot's activities as possible
+Your job is to be well acquited with sensors and filters, understanding the different types of sensors and filters, along with knowing how to reduce noise and automate as much of the robot's activities as possible.
 
 # Mechanical:
-They  prototype, design, CAD, and build with the bot. (it's not my job and Mech hasn't gotten back to me yet, so I don't have a full description nor do I have the resources).
+They prototype, design, CAD, and build with the bot. (it's not my job and Mech hasn't gotten back to me yet, so I don't have a full description nor do I have the resources).
 
 Some important questions are:
 - How do we reduce points of failure and couple design elements together?
