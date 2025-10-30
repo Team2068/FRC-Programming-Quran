@@ -1,3 +1,5 @@
+# Swerve Modules
+
 Here's a basic overview of Swerve Modules:
 They contain 2 motors, 1 for steering and 1 for drive, and an absolute encoder for having a concrete referrence for our module's position.
 For programming them, it's as simple as configuring your motors and absolute encoder (in absolute mode, you'd think it would be like that by default, but not always), then creating functions for setting the angle on the motors and drive velocity (speed & direction). That's really it. For a proper example look at [Michelle](https://github.com/Team2068/Michelle-2025/blob/main/src/main/java/frc/robot/subsystems/Swerve.java) TODO: Update the link
