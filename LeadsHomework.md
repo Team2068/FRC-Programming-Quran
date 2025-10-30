@@ -13,7 +13,7 @@ Note: Programming Lead has to read everything by the time their season starts an
 - Learn about Odometry, Path-Planning, Motion Planning, Swerve Modules (and tankdrive), and simming the Robot.
 - Get good at logging robot data / state and tracing when and where faults occured and then find out why (normally if it isn't obvious then it's likely linked to some sort of dependency which you fail to acknowledge or something you assume to work correctly (like a library or the field) didn't actually perform as expected)
 
-# Scouting
+# Scouting:
 - Learn how to log and model data from the bot
 - Learn the different stastics models used in FRC (EPA & OPR) and understand their application and meanings
 - Learn and gather tools that help to better understand and estimate how matches will go
