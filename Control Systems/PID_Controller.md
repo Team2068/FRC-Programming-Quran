@@ -1,3 +1,5 @@
+We use PID controllers/Closed Loop Controllers to get a motor to a specific setpoint (position, velocity, current, etc)
+
 # WPILIB Controllers
 
 https://docs.wpilib.org/en/stable/docs/software/advanced-controls/controllers/pidcontroller.html
