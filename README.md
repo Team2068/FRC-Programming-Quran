@@ -22,6 +22,7 @@ And keep this in mind just in case electrical falls off (it will be your problem
 - [FRC Electrical Bible](https://www.gitbook.com/book/mililanirobotics/frc-electrical-bible) & [The Beta](https://mililanirobotics.gitbooks.io/frc-electrical-bible/content/)
 
 # Git
+- [**How To Use Git**](https://github.com/Team2068/FRC-Programming-Quran/blob/main/How%20To%20Use%20Git.md) 
 - [Intro To Git](https://gist.github.com/brandon1024/14b5f9fcfd982658d01811ee3045ff1e)
 - [Git Manual](https://git-scm.com/docs)
 - [Comprehensive Git Guide](https://git-scm.com/book/en/v2)
