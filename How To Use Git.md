@@ -29,8 +29,6 @@ You can also use git switch commands to switch and create branches.
 ### Merging:
 When merging 2 branches together you may run into merge conflicts. For merging you can either use the git terminal command or the Pull Requests section on GitHub. If there is not a merge conflict then git will automatically merge them.
 
-![[Screenshot 2026-11-04 220920.png|470]]
-
 1. `git merge <branch_name>` Merges the history and changes of a specific branch into the branch you are currently on.
 2. `git pull origin main` Pulls the main branch from your remote and merges it into your currently checked out branch.
 
