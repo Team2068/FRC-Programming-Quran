@@ -1,3 +1,4 @@
+# How To Use Git
 These are some very useful git commands that we use and help us work effectively as a team.
 
 ## Downloading Repos:
