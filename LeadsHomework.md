@@ -22,4 +22,4 @@ Note: Programming Lead has to read everything by the time their season starts an
 # Programming Lead:
 - Most of the time look for ways to improve the development process and getting through testing and debugging quicker while still retaining functionality
 - The big goal is to have enough time to polish things like your chassis' controls & mechanisms movement
-- Research into tools that would prove useful in the future and test them out before and during the season
+- Research into tools that would prove useful in the future and test them out before and during the season. Essentially, you want to stay ahead of the curve so that you do not fall behind other teams in the future.
