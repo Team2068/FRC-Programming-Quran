@@ -1,5 +1,5 @@
 # How To Use Git
-These are some very useful git commands that we use and help us work effectively as a team.
+These are some very useful git commands that we use and that help us work effectively as a team.
 
 ## Downloading Repos:
 - `git clone` Clone is used to download a git repo onto your computer.
