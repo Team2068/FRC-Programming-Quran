@@ -36,9 +36,9 @@ When merging 2 branches together you may run into merge conflicts. For merging y
 
 ### Other Git Commands:
 A lot of these are less important or you won't use as often as the commands above but they are still important.
-`git init` creates a new local git repo.
-`git config --global user.name "YourName"` changes your git author name.
-`git config --global user.email "your@email.com"` changes your git author email.
-`git remote add origin <url>` Links a local repo to a remote server.
-`git fetch` Downloads the latest changes from remote without changing your local files.
-`git status` Shows your current branch and which files have been modified, staged or untracked.
+- `git init` creates a new local git repo.
+- `git config --global user.name "YourName"` changes your git author name.
+- `git config --global user.email "your@email.com"` changes your git author email.
+- `git remote add origin <url>` Links a local repo to a remote server.
+- `git fetch` Downloads the latest changes from remote without changing your local files.
+- `git status` Shows your current branch and which files have been modified, staged or untracked.
