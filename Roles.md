@@ -1,5 +1,5 @@
 # Drive Coach:
-Your job is to train the driver(s) and human player and focus on developing their skills to be effective for your intended style of play for the season. You should have a solid understanding of offense and defense and be able to break down how to approach both generally, in FRC, and for your specific season. Your job is also to develop strategies and estimate your opponents strategies, preparing counter strategies, and making adjustments as the game goes on. The best approach during matches is a mostly hands off approach, with small communication to adjust minor mistakes made by your drivers (if your drivers have enough time for training and are well synchronised).
+Your job is to train the driver(s) and human player and focus on developing their skills to be effective for your intended style of play for the season. You should have a solid understanding of offense and defense and be able to break down how to approach both generally, in FRC, and for your specific season. Your job is also to develop strategies and estimate your opponents strategies, preparing counter strategies, and making adjustments as the game goes on. The best approach during matches is a mostly hands off approach, with small communication to adjust minor mistakes made by your drivers (if your drivers have enough time for training and are well synchronized).
 
 The biggest Questions you should ask yourself are:
 - How do I measure the growth of my driver(s)?
@@ -39,28 +39,28 @@ Some important questions you should ask yourself as scouting lead are:
 - How should we rank the performance of other teams?
 - How do we find bot chemistry?
 - What are the greatest factors for alliance chemistry?
-- What tools would be useful for visualising the different possiblities on the field?
+- What tools would be useful for visualizing the different possibilities on the field?
 - What are the weaknesses and strengths of all teams at the venue?
 - What are the chances that particular teams will head to the next level (whether that be districts or worlds)?
 
 # Programming:
-Your job is to guide the training of your bucket members and to determine what the weakpoints of your bucket are and how to fix them. Along with being well acquited with the tools mentioned on the README.md along with Git, GitHub, GitHub Actions, and other tools that can be used to streamline your team's programming development process.
+Your job is to guide the training of your bucket members and to determine what the weak points of your bucket are and how to fix them. Along with being well acquitted with the tools mentioned on the README.md along with Git, GitHub, GitHub Actions, and other tools that can be used to streamline your team's programming development process.
 
 Some Questions you should ask yourself are:
-- How can we supplmenet other buckets?
+- How can we supplement other buckets?
 - What can we automate on the robot?
 - How can we measure the effectiveness of our automations compared to manual control?
-- How do we optimise our power draw?
-- How do we minimise sensor noise?
-- How do we improve the stabliity of our chassis?
+- How do we optimize our power draw?
+- How do we minimize sensor noise?
+- How do we improve the stability of our chassis?
 - How do we reduce drift on our chassis?
-- How do we ensure the effectivness of our autons?
+- How do we ensure the effectiveness of our autons?
 - How do we improve target tracking?
-- How can we optimise our robot's general performance through software?
-- How can we optimise our team's time management, performance, and resource usage with software? 
+- How can we optimize our robot's general performance through software?
+- How can we optimize our team's time management, performance, and resource usage with software? 
 
 # Sensors Lead:
-Your job is to be well acquited with sensors and filters, understanding the different types of sensors and filters, along with knowing how to reduce noise and automate as much of the robot's activities as possible.
+Your job is to be well acquitted with sensors and filters, understanding the different types of sensors and filters, along with knowing how to reduce noise and automate as much of the robot's activities as possible.
 
 # Mechanical:
 They prototype, design, CAD, and build with the bot. (it's not my job and Mech hasn't gotten back to me yet, so I don't have a full description nor do I have the resources).
@@ -68,7 +68,7 @@ They prototype, design, CAD, and build with the bot. (it's not my job and Mech h
 Some important questions are:
 - How do we reduce points of failure and couple design elements together?
 - How do we keep the robot's weight in bounds?
-- How do we keep a low and centred CG?
+- How do we keep a low and centered CG?
 
 # Electrical
 They plan the schematics and wire the robot, along with troubleshooting the connections and ensuring a certain level of robustness on the robot. Your goal is to have complete knowledge of every possible fault that could occur on the bot along with ways of countering them and you should be fairly well suited with the diagnostic tools used to identify and solve the electrical issues on the robot.
@@ -79,6 +79,3 @@ Some important questions are:
 
 # Business
 Your job is to gather sponsorships, advertise the team, and connect to communities and people's who may be helpful in spreading STEM across your school, community, state, country, or across the world.
-
-## Resources:
-- [Journal of Islamic Marketing](https://libgen.gs/edition.php?id=89445531)
