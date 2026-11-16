@@ -86,6 +86,11 @@ And keep this in mind just in case electrical falls off (it will be your problem
 - [Hall Effect Sensors outside of FRC](https://www.mdpi.com/1424-8220/21/21/7072)
 - [Motor FOC](https://www.mathworks.com/videos/motor-control-part-4-understanding-field-oriented-control-1587967749983.html)
 
+## Vision Systems
+- [Limelight Documentation](https://docs.limelightvision.io/docs/docs-limelight/getting-started/summary)
+- [Lessons in Vision & Localization](https://www.youtube.com/watch?v=jdWWU6gDu5U) - In depth video on Vision Systems
+- [PhotonLib Documentation](https://docs.photonvision.org/en/latest/docs/programming/photonlib/index.html) - Open source alternative to Limelight that you can use for any camera. Likely won't be needed past the 2026 season because SystemCore will have support for using USB camera's as Limelights.
+
 # Simulations
 - [Maple Sim](https://shenzhen-robotics-alliance.github.io/maple-sim/)
 - [WPILib Simulation](https://docs.wpilib.org/en/stable/docs/software/wpilib-tools/robot-simulation/index.html)
